@@ -3,8 +3,6 @@
 
 ## Overview
 
-![Metered Demo APP](src/public/images/screenshot.png?raw=true)
-
 In this application would give you a starting point to build your own video calling application with Metered.
 
 The application using Javascript + Node.JS and Express Backend.
